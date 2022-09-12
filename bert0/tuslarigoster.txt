@@ -1,0 +1,20 @@
+echo |bert0|0 = CloseMOD
+echo |bert0|1 = bert0js
+echo |bert0|2 = GoresMod
+echo |bert0|3 = DummyDeepFlyMod
+echo |bert0|4 = DummyFlyMod
+echo |bert0|5 = FNGmod(It isn't working)
+echo |bert0|8 = Show FPS ON
+echo |bert0|9 = Show FPS OFF
+echo |bert0|9 = harsh move
+echo |bert0|0 = smooth move
+
+echo |hiçbi sistem %100 güvenli değildir|
+
+echo |bert0|l = lock team
+echo |bert0|Right = zoom -
+echo |bert0|Left = zoom +
+echo |bert0|Down = zoom default
+echo |bert0|g = Mini Cross
+echo |bert0|[ = fat skin
+echo |bert0|] = Normal Skin

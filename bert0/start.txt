@@ -1,0 +1,142 @@
+#----SHOW-MODES
+
+bind f11 "exec bert0/tuslarigoster.txt"
+
+
+
+
+#-you can change the Keys as you like
+
+====================================================================================
+[AYARLAR]
+---------------------------------------------------------------------------------------
+###--RESET
+
+bind kp_0 "exec bert0/bertojs/reset/modkapa.cfg; echo | Bind Mode: Default"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-BERTO
+
+bind kp_1 "exec bert0/bertojs/bertojsxd/bert0.cfg; echo | Bind Mode: bert0"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-GORES
+
+bind kp_2 "exec bert0/bertojs/goresmod/gores.cfg; echo | Bind Mode: Gores"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-DUMMYDEEP
+
+bind kp_3 "exec bert0/bertojs/dummydeepmod/dummydeepfly.cfg; echo | Bind Mode: DummyDeepFly"
+
+
+---------------------------------------------------------------------------------------
+###--MOD-DUMMYFLY
+
+bind kp_4 "exec bert0/bertojs/dummyflymod/dummyfly.cfg; echo | Bind Mode: DummyFly"
+
+
+---------------------------------------------------------------------------------------
+
+###--MOD-FNG
+
+bind kp_5 "exec bert0/bertojs/fngmod/fng.cfg; echo | Bind Mode: FNG (It isn't working)"
+
+
+---------------------------------------------------------------------------------------
+
+###--FPS
+
+#AC
+bind kp_8 "exec bert0/bertojs/fps/goster.cfg; echo | Show FPS : ON"
+
+#KAPA
+bind kp_9 "exec bert0/bertojs/fps/kapat.cfg; echo | Show FPS : OFF"
+
+
+---------------------------------------------------------------------------------------
+##--Player movements
+
+#HARD
+bind 9 "exec bert0/bertojs/hareket/sert.cfg; echo | Player movements : Hard"
+
+#SMOOTH
+
+bind 0 "exec bert0/bertojs/hareket/yumusak.cfg; echo | Player movements: Smooth"
+
+
+
+=========================================================================================
+
+#=>EXTRA
+
+
+##--JOİN DUMMY
+
+bind comma "exec bert0/bertojs/extra/dummybagla.cfg"
+
+---------------------------------------------------------------------------------------
+##--DİSCONNECT DUMMY
+
+bind period "exec bert0/bertojs/extra/dummycikar.cfg"
+
+---------------------------------------------------------------------------------------
+##--TAKIMI-KITLE
+
+bind l "exec bert0/bertojs/extra/takımıkitle.cfg"
+
+
+---------------------------------------------------------------------------------------
+##--ZOOM
+
+#ZOOM++
+bind right "exec bert0/bertojs/extra/zoomarti.cfg"
+
+#ZOOM--
+bind left "exec bert0/bertojs/extra/zoomeksi.cfg"
+
+#DEFAULT
+bind down "exec bert0/bertojs/extra/zoom.cfg"
+
+
+---------------------------------------------------------------------------------------
+###--PERFECT-BOMB
+
+bind g "exec bert0/bertojs/extra/s.cfg"
+
+---------------------------------------------------------------------------------------
+###--FAT-SKIN
+
+#ON
+bind leftbracket "exec bert0/bertojs/extra/sisko.cfg"
+
+#OFF
+bind rightbracket "exec bert0/bertojs/extra/siskokapa.cfg"
+
+
+---------------------------------------------------------------------------------------
+
+=======================================================================================
+
+[DON'T TOUCH]
+
+exec bert0/bertojs/bertogiris/giris.cfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
